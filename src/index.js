@@ -49,6 +49,7 @@ class Game extends React.Component {
     render() {
         return (
             <div className="game">
+                This is a test.
                 <div className="game-board">
                     <Board />.
                 </div>
