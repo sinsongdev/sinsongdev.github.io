@@ -268,7 +268,7 @@ var Menu = function Menu() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/services",
+    href: "/skills",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -281,7 +281,7 @@ var Menu = function Menu() {
       lineNumber: 13
     },
     __self: this
-  }, "Services"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+  }, "Skills"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
     className: "jsx-1161442220",
     __source: {
       fileName: _jsxFileName,
@@ -326,7 +326,7 @@ var Menu = function Menu() {
   }, "About"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "1161442220",
     __self: this
-  }, ".menu.jsx-1161442220{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:5px 0 0;padding:0;list-style:none;}.menu.jsx-1161442220 li.jsx-1161442220 a.jsx-1161442220{font-size:22px;color:#111;font-weight:300;padding:5px 2px;margin:0 10px;-webkit-text-decoration:none;text-decoration:none;}.menu.jsx-1161442220 li.jsx-1161442220 a.jsx-1161442220:hover{padding-bottom:3px;border-bottom:2px solid #ffe525;}@media (max-width:600px){.menu.jsx-1161442220{display:block;margin-top:20px;}.menu.jsx-1161442220 li.jsx-1161442220{display:inline-block;}.menu.jsx-1161442220 li.jsx-1161442220 a.jsx-1161442220{font-size:18px;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkg6XFxTdHVkeVxcUmVhY3RcXGZpc3R1ZGlvXFxjb21wb25lbnRzXFxtZW51LmpzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUEyQm9CLEFBRzhCLEFBTUUsQUFRSSxBQUtELEFBSU8sQUFHTixjQU5DLENBYlQsQUFvQlgsSUFaZ0MsRUFTaEMsS0FoQmdCLElBYWhCLFlBWmdCLFNBT3BCLE9BTmtCLGNBQ08sRUFWTixlQUNMLFVBQ00sZ0JBQ3BCLE9BUUEiLCJmaWxlIjoiSDpcXFN0dWR5XFxSZWFjdFxcZmlzdHVkaW9cXGNvbXBvbmVudHNcXG1lbnUuanN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcclxuXHJcbmNvbnN0IE1lbnUgPSAoKSA9PiAoXHJcbiAgICA8dWwgY2xhc3NOYW1lPVwibWVudVwiPlxyXG4gICAgICAgIDxsaT5cclxuICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9cIj5cclxuICAgICAgICAgICAgICAgIDxhPkhvbWU8L2E+XHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICA8L2xpPlxyXG5cclxuICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvc2VydmljZXNcIj5cclxuICAgICAgICAgICAgICAgIDxhPlNlcnZpY2VzPC9hPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgPC9saT5cclxuXHJcbiAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL3BvcnRmb2xpb1wiPlxyXG4gICAgICAgICAgICAgICAgPGE+UG9ydGZvbGlvPC9hPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgPC9saT5cclxuXHJcbiAgICAgICAgPGxpPlxyXG4gICAgICAgICAgICA8TGluayBocmVmPVwiL2Fib3V0XCI+XHJcbiAgICAgICAgICAgICAgICA8YT5BYm91dDwvYT5cclxuICAgICAgICAgICAgPC9MaW5rPlxyXG4gICAgICAgIDwvbGk+XHJcbiAgICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgICAgICAubWVudSB7XHJcbiAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgICAgICAgICAgbWFyZ2luOiA1cHggMCAwO1xyXG4gICAgICAgICAgICAgICAgcGFkZGluZzogMDtcclxuICAgICAgICAgICAgICAgIGxpc3Qtc3R5bGU6IG5vbmU7XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgLm1lbnUgbGkgYSB7XHJcbiAgICAgICAgICAgICAgICBmb250LXNpemU6IDIycHg7XHJcbiAgICAgICAgICAgICAgICBjb2xvcjogIzExMTtcclxuICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiAzMDA7XHJcbiAgICAgICAgICAgICAgICBwYWRkaW5nOiA1cHggMnB4O1xyXG4gICAgICAgICAgICAgICAgbWFyZ2luOiAwIDEwcHg7XHJcbiAgICAgICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgLm1lbnUgbGkgYTpob3ZlciB7XHJcbiAgICAgICAgICAgICAgICBwYWRkaW5nLWJvdHRvbTogM3B4O1xyXG4gICAgICAgICAgICAgICAgYm9yZGVyLWJvdHRvbTogMnB4IHNvbGlkICNmZmU1MjU7XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDYwMHB4KSB7XHJcbiAgICAgICAgICAgICAgICAubWVudSB7XHJcbiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICAgICAgICAgICAgICAgICAgbWFyZ2luLXRvcDogMjBweDtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5tZW51IGxpIHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAubWVudSBsaSBhIHtcclxuICAgICAgICAgICAgICAgICAgICBmb250LXNpemU6IDE4cHg7XHJcbiAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgIH1cclxuICAgICAgICBgfTwvc3R5bGU+XHJcbiAgICA8L3VsPlxyXG4pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgTWVudTsiXX0= */\n/*@ sourceURL=H:\\Study\\React\\fistudio\\components\\menu.jsx */"));
+  }, ".menu.jsx-1161442220{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin:5px 0 0;padding:0;list-style:none;}.menu.jsx-1161442220 li.jsx-1161442220 a.jsx-1161442220{font-size:22px;color:#111;font-weight:300;padding:5px 2px;margin:0 10px;-webkit-text-decoration:none;text-decoration:none;}.menu.jsx-1161442220 li.jsx-1161442220 a.jsx-1161442220:hover{padding-bottom:3px;border-bottom:2px solid #ffe525;}@media (max-width:600px){.menu.jsx-1161442220{display:block;margin-top:20px;}.menu.jsx-1161442220 li.jsx-1161442220{display:inline-block;}.menu.jsx-1161442220 li.jsx-1161442220 a.jsx-1161442220{font-size:18px;}}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkg6XFxTdHVkeVxcUmVhY3RcXGZpc3R1ZGlvXFxjb21wb25lbnRzXFxtZW51LmpzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUEyQm9CLEFBRzhCLEFBTUUsQUFRSSxBQUtELEFBSU8sQUFHTixjQU5DLENBYlQsQUFvQlgsSUFaZ0MsRUFTaEMsS0FoQmdCLElBYWhCLFlBWmdCLFNBT3BCLE9BTmtCLGNBQ08sRUFWTixlQUNMLFVBQ00sZ0JBQ3BCLE9BUUEiLCJmaWxlIjoiSDpcXFN0dWR5XFxSZWFjdFxcZmlzdHVkaW9cXGNvbXBvbmVudHNcXG1lbnUuanN4Iiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSAnbmV4dC9saW5rJztcclxuXHJcbmNvbnN0IE1lbnUgPSAoKSA9PiAoXHJcbiAgICA8dWwgY2xhc3NOYW1lPVwibWVudVwiPlxyXG4gICAgICAgIDxsaT5cclxuICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9cIj5cclxuICAgICAgICAgICAgICAgIDxhPkhvbWU8L2E+XHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICA8L2xpPlxyXG5cclxuICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvc2tpbGxzXCI+XHJcbiAgICAgICAgICAgICAgICA8YT5Ta2lsbHM8L2E+XHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICA8L2xpPlxyXG5cclxuICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvcG9ydGZvbGlvXCI+XHJcbiAgICAgICAgICAgICAgICA8YT5Qb3J0Zm9saW88L2E+XHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuICAgICAgICA8L2xpPlxyXG5cclxuICAgICAgICA8bGk+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvYWJvdXRcIj5cclxuICAgICAgICAgICAgICAgIDxhPkFib3V0PC9hPlxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgPC9saT5cclxuICAgICAgICA8c3R5bGUganN4PntgXHJcbiAgICAgICAgICAgIC5tZW51IHtcclxuICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XHJcbiAgICAgICAgICAgICAgICBtYXJnaW46IDVweCAwIDA7XHJcbiAgICAgICAgICAgICAgICBwYWRkaW5nOiAwO1xyXG4gICAgICAgICAgICAgICAgbGlzdC1zdHlsZTogbm9uZTtcclxuICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAubWVudSBsaSBhIHtcclxuICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMjJweDtcclxuICAgICAgICAgICAgICAgIGNvbG9yOiAjMTExO1xyXG4gICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDMwMDtcclxuICAgICAgICAgICAgICAgIHBhZGRpbmc6IDVweCAycHg7XHJcbiAgICAgICAgICAgICAgICBtYXJnaW46IDAgMTBweDtcclxuICAgICAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAubWVudSBsaSBhOmhvdmVyIHtcclxuICAgICAgICAgICAgICAgIHBhZGRpbmctYm90dG9tOiAzcHg7XHJcbiAgICAgICAgICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgI2ZmZTUyNTtcclxuICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICBAbWVkaWEgKG1heC13aWR0aDogNjAwcHgpIHtcclxuICAgICAgICAgICAgICAgIC5tZW51IHtcclxuICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBibG9jaztcclxuICAgICAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAyMHB4O1xyXG4gICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgLm1lbnUgbGkge1xyXG4gICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgIC5tZW51IGxpIGEge1xyXG4gICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMThweDtcclxuICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgfVxyXG4gICAgICAgIGB9PC9zdHlsZT5cclxuICAgIDwvdWw+XHJcbik7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBNZW51OyJdfQ== */\n/*@ sourceURL=H:\\Study\\React\\fistudio\\components\\menu.jsx */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Menu);
@@ -11058,7 +11058,7 @@ var About = function About() {
 
 /***/ }),
 
-/***/ 0:
+/***/ 3:
 /*!*************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=H%3A%5CStudy%5CReact%5Cfistudio%5Cpages%5Cabout.jsx ***!
   \*************************************************************************************************************************/
@@ -11081,5 +11081,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=about.js.map
